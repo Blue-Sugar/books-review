@@ -1,0 +1,6 @@
+/api/target
+/api/db
+/api/src/db
+/api/migration/target
+/front/target
+/front/dist
